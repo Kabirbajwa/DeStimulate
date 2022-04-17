@@ -1,6 +1,6 @@
 chrome.alarms.create('Eye_Break', {
-    periodInMinutes: 1
+    periodInMinutes: 20
 });
 chrome.alarms.create('Big_Break', {
-    periodInMinutes: 2
+    periodInMinutes: 60
 });
